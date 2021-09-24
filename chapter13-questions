@@ -1,0 +1,18 @@
+
+/*********************************
+
+Question 1: 
+
+Total - 7760M
+Free - 6234 
+
+Question 2: The memory seems to be going up as the program keeps running an allocating more memory. When I kill it seems to go back to normal.
+The numbers did not match my expectations because I thought the numbers would be much larger. 
+
+Question 7: I get the process's  memory map and the C libraries.
+
+
+Question 8: To be honest all I see if abunch of garble. The only thing I do see is that the memory address is getting bigger in hexadecimal it kind of does match my expectations that the virtual address would get larger as the memory gets larger.
+
+
+***********************************/
